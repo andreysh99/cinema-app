@@ -1,0 +1,249 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Зеленая миля",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/4057c4b8-8208-4a04-b169-26b0661453e3/300x450",
+            "description": "В тюрьме для смертников появляется заключенный с божественным даром. Мистическая драма по роману Стивена Кинга",
+            "genre": "Драмы"
+        },
+        {
+            "id": 2,
+            "title": "Побег из Шоушенка",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/0b76b2a2-d1c7-4f04-a284-80ff7bb709a4/300x450",
+            "description": "Бухгалтер Энди Дюфрейн обвинён в убийстве собственной жены и её любовника. Оказавшись в тюрьме под названием Шоушенк, он сталкивается с жестокостью и беззаконием, царящими по обе стороны решётки. Каждый, кто попадает в эти стены, становится их рабом до конца жизни. Но Энди, обладающий живым умом и доброй душой, находит подход как к заключённым, так и к охранникам, добиваясь их особого к себе расположения.",
+            "genre": "Драмы"
+        },
+        {
+            "id": 3,
+            "title": "Форрест Гамп",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/3560b757-9b95-45ec-af8c-623972370f9d/300x450",
+            "description": "Полувековая история США глазами чудака из Алабамы. Абсолютная классика Роберта Земекиса с Томом Хэнксом",
+            "genre": "Драмы"
+        },
+        {
+            "id": 4,
+            "title": "Интерстеллар",
+            "imgUrl": "https://kinopoisk-ru.clstorage.net/DP2k98351/d17c53g0/hzsOEdp5x_VMEFrH5qJZzLfpn2b4chVQmLWxylkx88BBekFoD0xyyDr6ZPYTS53ZeOm8nG4E0pkD11v5qy6JpeP_K4WP7DbR_IUfIxIHXAmyvRuTPUNxxB3R8Bts5EYysnjCSphuETq4-KLid1_sPK08KJgrwUas8hYqjoiK38I3mx1xiWiW002TSlCFIgoOlXootplT02NItnR7mwJykFLr0xopbgC4iCqRYkeNiKx87Jn5iJE1XWWXKu46HV1CtwotcIjIlKK-Empxp7AbzKb46VaqcGDzeval2BshklOQu_JoGK2g2WqY0QCU3qgsTqy42wphtMzWBZvNGRwcQPS6_BMJejezPOAKwBVSif6GmmsmWLJjQKpV16jLgSGTwKgiqIg8gktKykCyNzwb7m39-otKU5buZ7RbDzn_TlJnyo6AGlvGQi9Bm6EUcXlslwsIB7lQ8CKKlNea-NBzIzKbcorZrWA6eKsgUCWNuc8tnunKaFOlvHfUCRwoL-6yZ2s_McpIJNMuEuiQd4C5f7d5e3dbQyDCuJYkWtriQ4Hy2HA6aT7RiYraQ4OFLlr8_qyY2agARdyFtzivqH5uQuYqnOI623VAPYALE0RBe82XOjj0OMBhgdiUl8oJI2FTACjzC8ltgXt5mzGQR77a_K2cKNu7UZUMp-c7XCuvTfL3m1wiWIqmAT5iezM2Qjo-d5tpltmyAuGoJ8Y6yWOyAjHIgLmLTJA5igkgkTQeiMy_jIn6K3G23yd3289ILH3jNmpMsKraBvP_4srjRwFLTMfpC5cZIyGyqbfUeDmBsaJgKfMrGJyCunu6ElFEHDrPjT2ZekqiRc9H9cjt-O5dkleonuIrGWbznPJpEpRTCb-FGMk0OkGTsgu2VBoJswJTYToC6Pmuw7mIyWKCNR76Hu0eiuq5EcfOVuUajzpfn8BWet7xy1t3QbyxSpKX8SnvVpg7VtrQM4NIlne6m4JD8xAoEdpJTWEaWfpy0ZQ9yLwM7jn5-AMVjWXVKP1JbL2wBGiuohiYhlL_UvnCRFHaP2a4eZQ5QHHiChbl-GsggqHDqZA4yy4DiVvroCJHLwmPbb5IS0hgR04GNDpP-OxvoQS4PyObKHdgzZFqYgWTC8xVe3glOqAQsngm5Qlqs9GCEgii-ekdwAu46PKz5V5YzRzdmepKEvaO9AR5vOsMHUMUC17wKfuXoR_iC3A34dm_Z0sqxqrQYNObdhU4K5FB0bH68huZzqLIO5iSIla92O0Mz4n7OROUDCQGiw0oLd7yJZqdkMspthO-cCniJcC5X1bbicQokbCS25TGeNkwQ5OTW6Fq-exzW4iZUDPHHjmvnT5o-buA1t8X1zk9mwxe8eYITULK-aaC7LB7o4fzK5-lyyqlSMFig_vGFcgIAkOwAtmgmTvu0Lr6KGAzZ45J_1zsOKlqk7f8JtRK3Dud7DAWap2DuItlwq6zSXMmkKpc1otqxupgUMPZ5_Q52sEBIGNLgusY39JK-QoBU4bcW6yOnHqYenL3TFXl2Kz5HAxiBjkOIOkqN1EdQDqRt4MrnjQoa2cq05GyiNZla0tz86FzmrNr6LywygnpEQKkXGl87XzaeRpjBT1ERGvsen6M4JWJ_FMbyvQBTvD540QDaX60O3gGWQJx4NpGdcgbg8BAEcoxOFkc8El62yMzNI7YXu--6JmJILdtVseprij-XeHVuMziOkpk0vzgaIOVwgpcRSt7xopRk-Iq15Voq0GhszF48hnq7bNpiJtC8URs6a5838sZ2-KGn0XlGYwrrq9SpkhMUIp6pfLsotjRNrAofDdJuCZooUED-6a2enlQYDMQqGAYOq4xeXurQwEUXRi8vq3rCDvi5w4WNfqdaE-eYeYLHUDJOIZzvFJ7szQAW2wVmjrUeEGiI0t0lWiII2PxYirhedgP03k4CGIR1Syqzj9d2eg4o3bsJuQKnku_ngKVW1yQqinlkQ4TSJHVk2uNZql5VwuhoOB4lFV7aiORY5IowKppvUJJSDsjc-esKc7tDqsqOEN2v9Sme83YPO5DR1vuUDp5ZpHNoinR5cDpD8c4iOUJYHNie2THqbtQkdGC2ZC6a3wiyJgIYnKm3ZvPnc9pafkD9j0WdEk8e_6NsEcb_pLpesaQPOFIg1YyWz2Wm3q0mVOy4liURWvJgdARsdpy6mn8UDjaSWBhF07pf0_uaphKQ4TM1nYo_TmcD7FHGk7xiEuGgM_C2pPEI9lsBtmbpNrhsgKZRDdKKTNCMhKI4Cr67rKKmKlzURduKE6u7nhbaJKmzBd1KvwaXm6gFCheoCr7ZvDNkmsgRjF7r4Y42oeKAQPSurZVqmjyc6GimGCYi_-iKlv7oXHknPnOjWz6-wnhdP0V1ckuGN69UdYr_rOpSIZSvvCbwyRzGZy3KOsGSPFgAsnWFbr48EAiIbjgS5sdk3so6xKDpY2Yfq7OishbIWetVVXo37rc_uCmul0wiFu20i5TSoH1Elg8F5i7ZkixweCKxLfJ2cIBI4KYsXs53LCY6NpgwIbv-F8v3gjryLDlL2WX6Z2Kf31h5HkckPlYdVCfojrBdyJqTJX5GIR4QhOyaIQ1aigBwHNTy6EJqN_zO7i7AOPEX9gcXp4aqrkRB26kdXtNqwzsQRf7P0LJCpeBX9C6kVUiCR6F2HoXWJPwo2rWRlhKI0JQQXhAugi-gyoK-VBzFz-6vX0eq8n7sPcNFfarnlmN_8N0S-6iW2mU8YzRurBEUVq_5Km6torxQDPJlZSKSIOSM_AoAOp6zFMJawuQMnafuL0fD2g4W6CHPOfH-Q0LPBzjd6ldgGo49DPOkCvjNYB5bdaJSXVpAnCxuJX2a9tRAwOxKrHKa3ySuAgqE6IXbDoMXM-YqalTZV_kRdnPCUw_glfK3SJ6y5RBXeCYwxWBW3znWpk2iVDSsXvnZBqYAIGxkxoQuiuOMihL-0Gh1QzJrU2eaklpweaMNJfJA",
+            "description": "Когда засуха, пыльные бури и вымирание растений приводят человечество к продовольственному кризису, коллектив исследователей и учёных отправляется сквозь червоточину (которая предположительно соединяет области пространства-времени через большое расстояние) в путешествие, чтобы превзойти прежние ограничения для космических путешествий человека и найти планету с подходящими для человечества условиями.",
+            "genre": "Драмы"
+        },
+        {
+            "id": 5,
+            "title": "Криминальное чтиво",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/87b5659d-a159-4224-9bff-d5a5d109a53b/300x450",
+            "description": "Несколько связанных историй из жизни бандитов. Шедевр Квентина Тарантино, который изменил мировое кино",
+            "genre": "Комедии"
+        },
+        {
+            "id": 6,
+            "title": "Бойцовский клуб",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/8ef070c9-2570-4540-9b83-d7ce759c0781/300x450",
+            "description": "Страховой работник разрушает рутину своей благополучной жизни. Культовая драма по книге Чака Паланика",
+            "genre": "Боевики"
+        },
+        {
+            "id": 7,
+            "title": "1+1",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/bf93b465-1189-4155-9dd1-cb9fb5cb1bb5/300x450",
+            "description": "Пострадав в результате несчастного случая, богатый аристократ Филипп нанимает в помощники человека, который менее всего подходит для этой работы, – молодого жителя предместья Дрисса, только что освободившегося из тюрьмы. Несмотря на то, что Филипп прикован к инвалидному креслу, Дриссу удается привнести в размеренную жизнь аристократа дух приключений.",
+            "genre": "Комедии"
+        },
+        {
+            "id": 8,
+            "title": "Темный рыцарь",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/0fa5bf50-d5ad-446f-a599-b26d070c8b99/300x450",
+            "description": "Бэтмен поднимает ставки в войне с криминалом. С помощью лейтенанта Джима Гордона и прокурора Харви Дента он намерен очистить улицы Готэма от преступности. Сотрудничество оказывается эффективным, но скоро они обнаружат себя посреди хаоса, развязанного восходящим криминальным гением, известным напуганным горожанам под именем Джокер.",
+            "genre": "Боевики"
+        },
+        {
+            "id": 9,
+            "title": "Шрэк",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/7ade06a8-4178-4386-9ee2-87fec5a172eb/300x450",
+            "description": "Огр-мизантроп спасает принцессу, чтобы вернуть свое болото. Революционная анимация о том, что красота — внутри",
+            "genre": "Комедии"
+        },
+        {
+            "id": 10,
+            "title": "Достучаться до небес",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/3fb781cd-2b98-4072-b102-311661121a2e/300x450",
+            "description": "Смертельно больные Мартин и Руди едут к морю на угнанной машине. Роль, сделавшая Тиля Швайгера суперзвездой",
+            "genre": "Драмы"
+        },
+        {
+            "id": 11,
+            "title": "Гарри Поттер и философский камень",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/27ed5c19-a045-49dd-8624-5f629c5d96e0/300x450",
+            "description": "Гарри поступает в школу магии Хогвартс и заводит друзей. Первая часть большой франшизы о маленьком волшебнике",
+            "genre": "Драмы"
+        }, 
+        {
+            "id": 12,
+            "title": "Ходячие мертвецы",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/b201e596-2429-42da-81d0-7e0736f4c588/300x450",
+            "description": "Зомби-эпидемия захлестнула планету. Шериф Рик Граймс путешествует с семьей и небольшой группой выживших в поисках безопасного места. Но постоянный страх смерти каждый день приносит тяжелые потери, заставляя товарищей по несчастью чувствовать глубины человеческой жестокости. Рик пытается спасти близких и понимает, что всепоглощающий страх людей может быть опаснее ходячих мертвецов.",
+            "genre": "Ужасы"
+        },
+        {
+            "id": 13,
+            "title": "Оно",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/34653c61-8b9a-4ba4-8057-6c81d70c71ed/300x450",
+            "description": "Когда в городке Дерри штата Мэн начинают пропадать дети, несколько ребят сталкиваются со своими величайшими страхами - не только с группой школьных хулиганов, но со злобным клоуном Пеннивайзом, чьи проявления жестокости и список жертв уходят в глубь веков.",
+            "genre": "Ужасы"
+        },
+        {
+            "id": 14,
+            "title": "Чужой",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/14af6019-b2fe-4e1e-bee5-334d9e472d94/300x450",
+            "description": "В далеком будущем возвращающийся на Землю грузовой космический корабль перехватывает исходящий с неизвестной планеты неопознанный сигнал. Экипаж, в соответствии с основными инструкциями, обязан найти и исследовать источник сигнала. Оказавшись на планете, астронавты повсюду обнаруживают неопознанные предметы, по виду напоминающие гигантские коконы.",
+            "genre": "Ужасы"
+        },
+        {
+            "id": 15,
+            "title": "28 дней спустя",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/2a574893-50c3-4643-b807-8813795ba9a7/300x450",
+            "description": "28 дней спустя вся Великобритания охвачена страшной эпидемией: многие эвакуируются, другие ищут безопасные места в надежде спастись. Те, кому посчастливилось не заразиться, вместе с группой военных прячутся в заброшенном доме.",
+            "genre": "Ужасы"
+        },
+        {
+            "id": 16,
+            "title": "Обитель зла",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/2e1a5979-8f42-4f81-84ad-78f7831c0c80/300x450",
+            "description": "Военные посылают в кишащий голодными монстрами секретный комплекс отряд спецназа, к которому присоединяются Элис и полицейский Мэтт. У них есть только три часа, чтобы уничтожить вирус.",
+            "genre": "Ужасы"
+        },
+        {
+            "id": 17,
+            "title": "Сайлент Хилл",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/dd86fcf8-fd55-4020-901a-202df623214c/300x450",
+            "description": "Доктора не могут найти лекарство от таинственного заболевания Шэрон, но её мать Роуз отказывается отдавать ребёнка в психиатрическую лечебницу. Вместе с дочерью она отправляется в Сайлент Хилл - город, название которого Шэрон постоянно твердит во сне. Роуз убеждена, что именно здесь она найдёт ответы, в которых так нуждается.",
+            "genre": "Ужасы"
+        },
+        {
+            "id": 18,
+            "title": "Хищник",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/33487acc-b732-4fe0-b9bf-6a8768c995e2/300x450",
+            "description": "Американский вертолет был сбит партизанами в Южной Америке. Оставшийся в живых экипаж находится в плену. Центральное разведывательное управление США бросает свои лучшие силы для освобождения американских граждан.",
+            "genre": "Ужасы"
+        },
+        {
+            "id": 19,
+            "title": "Пила: Игра на выживание",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/10c416d0-8669-4fd4-8288-971111519931/300x450",
+            "description": "Два незнакомца просыпаются в подвале, где лежит человек с простреленной головой и пистолетом в руке. Они прикованы к стенам цепями и не помнят, как тут оказались. Голос с найденной плёнки велит одному из них выбрать — убить товарища по несчастью или дать умереть своим жене и дочери. Так начинается жестокая игра, у невольных участников которой есть всего лишь 7 часов.",
+            "genre": "Ужасы"
+        },
+        {
+            "id": 20,
+            "title": "Романовы",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/4cd54470-a818-428f-86d9-15cd0cf4e5cc/300x450",
+            "description": "Уникальный по форме проект, приуроченным к 400-летию воцарения на Руси дома Романовых, который сочетает в себе элементы и игрового, и документального кино, информационной графики и анимации. История расскажет о том, что представляло собой русское самодержавие как система управления, каковы ее недостатки и преимущества, какую роль монархи дома Романовых играли в событиях российской и мировой истории. При помощи графики создается максимально исторически-достоверная картина, которая погружает зрителя в атмосферу и ощущение времени и позволяет увидеть царя глазами современников.",
+            "genre": "Документальные"
+        },
+        {
+            "id": 21,
+            "title": "Галилео",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/44dca5f5-0bca-4ff0-bbe0-3c7759044447/300x450",
+            "description": "Научно-развлекательная программа. Каждая серия «Галилео» состоит из студийной части и видео сюжетов на самые разные научно-популярные темы. Полёт мысли Галилео не знает границ. Галилео не боится никаких запутанных вопросов, поэтому темы для видео сюжетов программы Галилео неисчерпаемы.",
+            "genre": "Документальные"
+        },
+        {
+            "id": 22,
+            "title": "Космос: Пространство и время",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/ef2f5aa6-daf6-4b71-acb1-40dd61d9c692/300x450",
+            "description": "Рассказ о научных открытиях, совершённых за последние столетия.",
+            "genre": "Документальные"
+        },
+        {
+            "id": 23,
+            "title": "Медведи Камчатки. Начало жизни",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/f894df38-428c-42d1-8af6-ebe29fa0a790/300x450",
+            "description": "Документальный фильм рассказывает о первом годе жизни бурых медведей по сценарию, написанному самой природой. На протяжении семи месяцев съёмочная группа наблюдала за несколькими медвежьими семьями на территории Южно-Камчатского федерального заказника им. Т.И. Шпиленка, чтобы запечатлеть тайны взросления одного из самых крупных хищников России.",
+            "genre": "Документальные"
+        },
+        {
+            "id": 24,
+            "title": "Земляне",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/ced82414-4e9b-4222-b0e4-4ade11f0ff78/300x450",
+            "description": "Фильм посвящён проблеме жестокого обращения человека с животными, а также вопросам вреда животноводства и рыболовства в глобальных масштабах.",
+            "genre": "Документальные"
+        },
+        {
+            "id": 25,
+            "title": "История Государства Российского",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/6b461acb-c7a8-4b42-8328-3c85c679b902/300x450",
+            "description": "Эта историческая телекартина создана на основе одноименного фундаментального 12-томного труда знаменитого русского историка Николая Карамзина. Каждая из серий, которая будет длиться 4 минуты, выполнена в технике трехмерной компьютерной анимации. Сериал охватывает огромный исторический период от Славянской Руси до Смутного времени.",
+            "genre": "Документальные"
+        },
+        {
+            "id": 26,
+            "title": "Один дома",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/022a58e3-5b9b-411b-bfb3-09fedb700401/300x450",
+            "description": "Американское семейство отправляется из Чикаго в Европу, но в спешке сборов бестолковые родители забывают дома... одного из своих детей. Юное создание, однако, не теряется и демонстрирует чудеса изобретательности. И когда в дом залезают грабители, им приходится не раз пожалеть о встрече с милым крошкой.",
+            "genre": "Комедии"
+        },
+        {
+            "id": 27,
+            "title": "Иван Васильевич меняет профессию",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a7ef44b8-1983-4992-a889-da6f87a3f559/300x450",
+            "description": "Инженер-изобретатель Тимофеев сконструировал машину времени, которая соединила его квартиру с далеким шестнадцатым веком - точнее, с палатами государя Ивана Грозного. Туда-то и попадают тезка царя пенсионер-общественник Иван Васильевич Бунша и квартирный вор Жорж Милославский.",
+            "genre": "Комедии"
+        }, 
+        {
+            "id": 28,
+            "title": "Друзья",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/35c6cb89-75e3-4efa-8d00-5bbf7175c066/300x450",
+            "description": "Шестеро друзей – Рейчел, Моника, Фиби, Джоуи, Чендлер и Росс – живут по соседству, вместе убивают время, делятся секретами и иногда очень сильно влюбляются.",
+            "genre": "Комедии"
+        },
+        {
+            "id": 29,
+            "title": "Маска",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/af924598-65b8-47c5-8297-75a661a7c335/300x450",
+            "description": "Скромный и застенчивый служащий банка чувствует себя неуверенно с красивыми девушками и вообще рядом с людьми. Волей судьбы к нему попадает волшебная маска, и Стенли Ипкис приобретает способность превращаться в неуязвимое мультяшное существо с озорным характером.",
+            "genre": "Комедии"
+        },
+        {
+            "id": 30,
+            "title": "Батя",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/907e3552-9a1e-48d1-8a01-d013a76a8343/300x450",
+            "description": "История о путешествии взрослого героя к своему Бате, суровому русскому мужику, который стал отцом на заре девяностых и воспитывал своего сына так, как это делали все советские люди.",
+            "genre": "Комедии"
+        },
+        {
+            "id": 31,
+            "title": "Мальчишник в Вегасе",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/cdd49af8-7ba4-42ee-9f92-10ba7e3d021b/300x450",
+            "description": "Они мечтали устроить незабываемый мальчишник в Вегасе. Но теперь им необходимо вспомнить, что именно произошло: что за ребенок сидит в шкафу номера отеля? Как в ванную попал тигр? Почему у одного из них нет зуба? И, самое главное, куда делся жених? То, что парни вытворяли на вечеринке, не идет ни в какое сравнение с тем, что им придется сделать на трезвую голову, когда они будут шаг за шагом восстанавливать события прошлой ночи.",
+            "genre": "Комедии"
+        },
+        {
+            "id": 32,
+            "title": "Гнев человеческий",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/90d57813-387c-44c4-81c1-ecddb3c417a5/300x450",
+            "description": "Грузовики лос-анджелесской инкассаторской компании Fortico Security часто подвергаются нападениям, и во время очередного ограбления погибают оба охранника. Через некоторое время в компанию устраивается крепкий немногословный британец Патрик Хилл. Он получает от босса прозвище Эйч и, впритык к необходимому минимуму пройдя тесты по фитнесу, стрельбе и вождению, отправляется на первое задание. Вскоре и его грузовик пытаются ограбить вооруженные налётчики, но Эйч в одиночку расправляется с целой бандой и становится героем. Кажется, слава и уважение коллег его совершенно не интересуют, ведь он преследует свои цели.",
+            "genre": "Боевики"
+        },
+        {
+            "id": 33,
+            "title": "Брат 2",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/80eab631-346c-4c29-b14d-1fa1438158f9/300x450",
+            "description": "Участвуя в программе на телевидении, Данила Багров встречает своих друзей по службе Чечне. Одного из них внезапно убивают. Выясняется, что у того были неприятности из-за брата-хоккеиста в Америке. Данила должен разобраться. Он вылетает в Америку и за компанию берёт с собой старшего брата.",
+            "genre": "Боевики"
+        },
+        {
+            "id": 34,
+            "title": "Леон",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/bd1dcbd5-ad6b-4094-8243-d4d506c8b2e1/300x450",
+            "description": "Профессиональный убийца Леон неожиданно для себя самого решает помочь 12-летней соседке Матильде, семью которой убили коррумпированные полицейские.",
+            "genre": "Боевики"
+        },
+        {
+            "id": 35,
+            "title": "Бесславные ублюдки",
+            "imgUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/5e6dde98-74a8-4c02-b003-01d48e091025/300x450",
+            "description": "Вторая мировая война. В оккупированной немцами Франции группа американских солдат-евреев наводит страх на нацистов, жестоко убивая и скальпируя солдат.",
+            "genre": "Боевики"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+.category {
+    color: white;
+    margin-left: 20px;
+    
+}
+.title {
+
+}
+.posters {
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    overflow-x: auto;
+    &::-webkit-scrollbar {
+        display: none;
+    }
+    .poster {
+        max-height: 300px;
+        margin-right: 10px;
+        object-fit: contain;
+        transition: transform 450ms;
+        &:hover {
+            transform: scale(1.08);
+            opacity: 1;
+        }
+    }
+}
