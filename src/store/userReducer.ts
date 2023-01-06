@@ -1,17 +1,27 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-const initialState = {
-    user: null
+interface IUser {
+    email: string
+    uid: string
+}
+
+interface IUserReducer {
+    profile: IUser | null
+}
+
+const initialState: IUserReducer = {
+    profile: null
 }
 const userReducer = createSlice({
     name: 'user',
     initialState,
     reducers: {
         login: (state, { payload }) => {
-            state.user = payload
+            state.profile = payload
+            console.log(payload)
         },
         logout: (state) => {
-            state.user = null
+            state.profile = null
         }
     }
 })

@@ -1,26 +1,28 @@
-import React, { lazy, useEffect } from 'react'
+import React, { lazy, Suspense, useEffect } from 'react'
 import styles from './App.module.scss'
 import { Route, Routes, useNavigate } from 'react-router-dom'
 import { onAuthStateChanged } from 'firebase/auth'
 import { auth } from './firebase'
 import { useAppDispatch, useAppSelector } from './store/store'
 import { login, logout } from './store/userReducer'
-import ProviderRoute from './pages/ProviderRoute'
-const Home = lazy(() => import('./pages/Home/Home'))
-const Login = lazy(() => import('./pages/Login/Login'))
+import ProtectedRoute from './pages/ProtectedRoute'
+import Home from './pages/Home/Home'
+import Login from './pages/Login/Login'
+
+const Profile = lazy(() => import('./pages/Profile/Profile'))
 
 function App() {
-  const user = useAppSelector((state) => state.user)
+  const profile = useAppSelector((state) => state.user.profile)
   const navigate = useNavigate()
   const dispatch = useAppDispatch()
 
   useEffect(() => {
-    onAuthStateChanged(auth, (user) => {
-      if (user) {
+    onAuthStateChanged(auth, (profile) => {
+      if (profile) {
         dispatch(
           login({
-            uid: user.uid,
-            email: user.email,
+            uid: profile.uid,
+            email: profile.email,
           }),
         )
         navigate('/')
@@ -30,16 +32,19 @@ function App() {
     })
   }, [])
 
-  console.log(user)
+  console.log(profile)
   return (
     <div className={styles.app}>
-      <Routes>
-        <Route index path="/" element={
-        <ProviderRoute user={user}>
-          <Home />
-        </ProviderRoute>} />
-        <Route path="/login" element={<Login />} />
-      </Routes>
+      <Suspense fallback={<div>Загрузка</div>}>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/login" element={<Login />} />
+          <Route
+            path="/profile"
+            element={<ProtectedRoute profile={profile} element={<Profile />} />}
+          />
+        </Routes>
+      </Suspense>
     </div>
   )
 }

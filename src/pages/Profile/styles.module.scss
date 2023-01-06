@@ -1,0 +1,102 @@
+.profile {
+    height: 100vh;
+    color: white;
+    background-color: rgb(35, 28, 113);
+    .content {
+        display: flex;
+        flex-direction: column;
+        width: 50%;
+        max-width: 800px;
+        margin: 0 auto;
+        padding-top: 8%;
+        @media (max-width: 996px) {
+            padding-top: 25%;
+            width: 80%;
+        }
+        .head {
+            margin-bottom: 20px;
+            font-size: 60px;
+            font-weight: 400;
+            border-bottom: 1px solid #282c2d;
+        }
+        .info {
+            display: flex;
+            .avatar {
+                margin-right: 20px;
+                width: 40px;
+                height: 40px;
+            }
+            .details {
+                display: flex;
+                flex: 1;
+                flex-direction: column;
+                .mail {
+                    margin-bottom: 20px;
+                    padding: 15px;
+                    font-size: 20px;
+                    background-color: gray; 
+                }
+                .btn {
+                    width: 100%;
+                    margin-top: 5%;
+                    padding: 10px 20px;
+
+                    font-size: 1rem;
+                    font-weight: 600;
+                    color: white;
+
+                    border: none;
+                    background-color: rgb(34, 77, 119);
+                    cursor: pointer;
+                    &:hover {
+                        opacity: 0.8;
+                    }
+                }
+            }
+            
+        }
+    }
+}
+
+.subscription {
+    .headsub {
+        margin-bottom: 10px;
+    }
+    .list {
+        .item {
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #7699a2;
+            .typesub {
+                .sub {
+        
+                }
+                .screen {
+        
+                }
+            }
+            .btnsub {
+                padding: 10px 20px;
+                font-size: 1rem;
+                font-weight: 600;
+                color: white;
+
+                border: none;
+                background-color: rgb(34, 77, 119);
+                cursor: pointer;
+                &:hover {
+                    opacity: 0.8;
+                }
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
